@@ -6,12 +6,13 @@
 
 An entry for the make.fun bounty **"Post a GTA 6 meme on X"** ([gta6-meme-x-01](https://make.fun/bounty/gta6-meme-x-01)).
 
-The meme: a Vice City neon street at sunset, with make.fun's ghost mascot
-standing in the middle of the road, captioned **"WAITED 13 YEARS / CALLED IN
-SICK TODAY"** — the thirteen-year wait since GTA V, and the launch-day sick
-day every GTA fan understands. The ghost is make.fun's own logo asset
-(`mark-1024.png` from https://make.fun/press/), placed large so it stays
-recognisable when the picture is shrunk to 480×480.
+The meme: a sunny Leonida street in Florida — pastel art deco buildings, a
+pink flamingo, an alligator crossing the road — with make.fun's ghost
+mascot wearing black sunglasses, captioned **"FLORIDA MAN / FINALLY HAS
+HIS OWN GAME"** — GTA 6 is set in Leonida, the Florida of the GTA world,
+and its trailer leans into Florida Man culture. The ghost is make.fun's
+own logo asset (`mark-1024.png` from https://make.fun/press/), placed
+large so it stays recognisable when the picture is shrunk to 480×480.
 
 The post (on X from @Hazri_hazer) carries the meme as its first picture, a
 tag of @makefunai, and the entrant's play code, and tells its readers that
