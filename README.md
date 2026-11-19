@@ -1,6 +1,10 @@
 # GTA 6 meme on X — make.fun bounty entry
 
-An entry for the make.fun bounty **"Post a GTA 6 meme on X"** (gta6-meme-x-01).
+[![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![rank](https://make.fun/badge/gta6-meme-x-01/bocahtamvan/gta6-meme-x/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![reward](https://make.fun/badge/gta6-meme-x-01/bocahtamvan/gta6-meme-x/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+
+An entry for the make.fun bounty **"Post a GTA 6 meme on X"** ([gta6-meme-x-01](https://make.fun/bounty/gta6-meme-x-01)).
 
 The meme: a Vice City neon street at sunset, with make.fun's ghost mascot
 standing in the middle of the road, captioned **"WAITED 13 YEARS / CALLED IN
